@@ -1,0 +1,24 @@
+.imagecard {
+	display: revert;
+	align-items: center;
+	justify-content: space-between;
+	margin: 20px;
+	text-align: center;
+}
+
+.imagegrid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.imagecard h3 {
+	font-size: 20px;
+	text-align: center;
+}
+
+.imagecard a {
+	font-size: 25px;
+	color: #635BFF;
+}
